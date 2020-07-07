@@ -1,2 +1,2 @@
-# leetcode
-All leetcode solutions written by me
+# Leetcode
+Archiving Leetcode problems solved by me.
